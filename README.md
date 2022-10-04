@@ -1,6 +1,6 @@
 <h3>Hi there 👋</h3>
 <p>
-- 🌱 I’m currently learning ... Front-end
+🌱 I’m currently learning ... Front-end
 
 </p>
 <br>
