@@ -1,11 +1,11 @@
-<h1>👋 Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 <p>
 🌱 I’m currently learning ... Front-end
 
 </p>
 <br>
 
-<h1>🌳 Tech Stack 🌳</h1>
+<h1>Tech Stack 🌳</h1>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
