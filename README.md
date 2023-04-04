@@ -2,7 +2,6 @@
 
 📫 k.gaeun1007@gmail.com
 
-<br>
 
 ### mainly focusing on 🎯
 <div>
